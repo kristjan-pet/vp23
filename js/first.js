@@ -1,0 +1,1 @@
+console.log("Now it works 100%")
