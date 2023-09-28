@@ -1,2 +1,2 @@
-# vp23
-Veebiprogrammeerimise kursuse repositoorium
+# Veebiprogrammeerimine 2023
+Veebiprogrammeerimise kursuse repositoorium.
